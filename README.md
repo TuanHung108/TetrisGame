@@ -18,3 +18,4 @@ TetrisGame mang đến trải nghiệm quen thuộc cùng nhiều tính năng h�
 - Chức năng tạm dừng, tiếp tục hoặc khởi động lại trò chơi bất kỳ lúc nào.
 
 ## Giao diện & Đồ họa
+![Tetris Screenshot](Screenshot%202026-02-03%20224403.png)
